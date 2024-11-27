@@ -1,6 +1,7 @@
-**#React Exercise**
-a pizza restaurant with menu
+**#Create react app**
+npx create-react-app@5 pizza-menu
 
-**Run React**
-npm start
+Replace the code to the public folder and src folder
+
+**Run React using** npm start
 
